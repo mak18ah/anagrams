@@ -1,3 +1,5 @@
+Compares two words passed in and determines if passed in value is an anagram. 
+
 To run:
 
 ```
